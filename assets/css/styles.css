@@ -3,3 +3,11 @@
 * {
 	font-family: Arial;
 }
+
+:root {
+--mint-leaf: #3ab795ff;
+--celadon: #a0e8afff;
+--muted-teal: #86baa1ff;
+--beige: #edead0ff;
+--golden-pollen: #ffcf56ff;
+}
